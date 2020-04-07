@@ -1,4 +1,4 @@
-= Docker Java Sample
+= Docker Java Sample2
 
 This repository contain samples that shows integration of Docker and Java.
 
